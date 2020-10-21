@@ -26,4 +26,7 @@ public class sayController {
     public String sendUser2(User user){
         return "参数进来了";
     }
+    public String send(){
+        return "dd";
+    }
 }
