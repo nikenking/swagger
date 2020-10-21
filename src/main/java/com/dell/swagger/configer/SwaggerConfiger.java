@@ -50,6 +50,7 @@ public class SwaggerConfiger {
                 "http://116.62.49.224:2333/",
                 new ArrayList()
         );
+
         /**
          * String version;
          * String title;

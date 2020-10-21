@@ -22,6 +22,9 @@ public class sayController {
     public String sendUser(User user){
         return "参数进来了";
     }
-
+    @PostMapping(value = {"/senduUer2"})
+    public String sendUser2(User user){
+        return "参数进来了";
+    }
 
 }
